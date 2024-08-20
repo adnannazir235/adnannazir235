@@ -25,7 +25,7 @@
 <a href="https://dev.to/adnannazir235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adnannazir235" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22230879" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22230879" height="30" width="40" /></a>
 <a href="https://codepen.io/adnannazir235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="adnannazir235" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@adnannazir235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@adnannazir235" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@adnannazir235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@adnannazir235" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
