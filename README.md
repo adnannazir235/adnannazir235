@@ -15,7 +15,7 @@
 
 - 📝 Write articles on [Dev](https://dev.to/adnannazir235)
 
-- 📄 Know about my experiences: [CV](https://bit.ly/adnan-nazir-cv)
+- 📄 Know about my experiences: <a href="https://bit.ly/adnan-nazir-cv" target="blank">CV</a>
 
 - ⚡ Like **AI and Automation**
 
