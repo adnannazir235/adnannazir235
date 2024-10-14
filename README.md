@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnannazir235&label=Profile%20views&color=0e75b6&style=flat" alt="adnannazir235" /> </p>
 
-- 🔭 Currently working on [R2 Tester](https://github.com/adnannazir235/R2-Tester)
-
 - 🌱 Lately learned little bit of **TypeScript & Tailwind CSS**
 
 - 👯 Looking to collaborate on **Frontend Web Apps and AI Stuff**
