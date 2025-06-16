@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnannazir235&label=Profile%20views&color=0e75b6&style=flat" alt="adnannazir235" /> </p>
 
-- 🌱 Lately learned little bit of **TypeScript & Tailwind CSS**
+- 🌱 Lately learned little bit of **React & Tailwind CSS**
 
 - 👯 Looking to collaborate on **Frontend Web Apps and AI Stuff**
-
-- 🤝 Looking for help with **Frontend Technologies (React, Angular, Vue)**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/adnannazir235?tab=repositories)
 
@@ -26,6 +24,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<a href="https://www.w3.org/react/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a>
+
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
 
