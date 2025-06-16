@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnannazir235&label=Profile%20views&color=0e75b6&style=flat" alt="adnannazir235" /> </p>
 
-- 🌱 Lately learned little bit of **React & Tailwind CSS**
+- 🌱 Recently learned a bit of **React & Tailwind CSS**
 
-- 👯 Looking to collaborate on **Frontend Web Apps and AI Stuff**
+- 👯 Looking to collaborate on **Frontend Web Apps and AI Projects**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/adnannazir235?tab=repositories)
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences: [Resume](https://bit.ly/adnan-nazir-cv)
 
-- ⚡ Like **AI and Automation**
+- ⚡ Interested in **AI and Automation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
