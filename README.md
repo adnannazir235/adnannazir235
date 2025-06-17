@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/adnannazir235?tab=repositories)
 
-- 📝 Write articles on [Dev](https://dev.to/adnannazir235)
-
 - 📄 Know about my experiences: [CV/Resume](https://bit.ly/adnan-nazir-cv)
 
 - ⚡ Interested in **AI and Automation**
