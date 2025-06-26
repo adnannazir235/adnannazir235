@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Adnan Nazir</h1>
-<h3 align="center">Dedicated, motivated individual seeking opportunities to contribute to innovative projects and foster professional growth.</h3>
+<h3 align="center">Web Developer focused on crafting clean, responsive interfaces using modern web technologies. Passionate about learning, collaboration, and building real-world solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnannazir235&label=Profile%20views&color=0e75b6&style=flat" alt="adnannazir235" /> </p>
 
-- 🌱 Recently learned a bit of **React & Tailwind CSS**
+- 🌱 Recently expanded skills in **React**, **Vite**, and **Tailwind CSS** for modern frontend development
 
-- 👯 Looking to collaborate on **Frontend Web Apps and AI Projects**
+- 🤝 Open to collaborating on **React-based apps**, **automation tools**, and **AI-powered interfaces**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/adnannazir235?tab=repositories)
+- 👨‍💻 Explore all my projects here: [GitHub](https://github.com/adnannazir235?tab=repositories)
 
-- 📄 Know about my experiences: [CV/Resume](https://bit.ly/adnan-nazir-cv)
+- 📄 View my CV: [CV/Resume](https://bit.ly/adnan-nazir-cv)
 
-- ⚡ Interested in **AI and Automation**
+- ⚡ Enthusiastic about **AI tools**, **n8n**, and **automating workflows**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -77,7 +77,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
   </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnannazir235&show_icons=true&locale=en&layout=compact" alt="adnannazir235" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adnannazir235&show_icons=true&locale=en" alt="adnannazir235" /></p>
