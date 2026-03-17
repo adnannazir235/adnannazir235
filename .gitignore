@@ -1,0 +1,9 @@
+# 🔧 VS Code settings
+.vscode/
+
+# 🛠 TypeScript project config and cache
+tsconfig.json
+*.tsbuildinfo
+
+# local directory (folders/files)
+other
