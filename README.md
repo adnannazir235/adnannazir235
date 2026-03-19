@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnannazir235&label=Profile%20views&color=0e75b6&style=flat" alt="adnannazir235" /> </p>
 
-- 🌱 Recently expanded skills in **React**, **Vite**, and **Tailwind CSS** for modern frontend development
+- 👨‍💻 Explore my portfolio: [adnannazir235.github.io/adnannazir235](https://adnannazir235.github.io/adnannazir235/)
+
+- 🌱 Recently expanded skills in **React**, **Vite**, and **MERN Stack** for modern frontend development
 
 - 🤝 Open to collaborating on **React-based apps**, **automation tools**, and **AI-powered interfaces**
 
-- 👨‍💻 Explore all my projects here: [GitHub](https://github.com/adnannazir235?tab=repositories)
+- 👨‍💻 Explore all my projects here: [Github Repositories](https://github.com/adnannazir235?tab=repositories)
 
-- 📄 View my CV: [CV/Resume](https://bit.ly/adnan-nazir-cv)
+- 📄 View my CV/Resume: [PDF](https://bit.ly/adnan-nazir-cv)
 
 - ⚡ Enthusiastic about **AI tools**, **n8n**, and **automating workflows**
 
