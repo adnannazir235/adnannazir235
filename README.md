@@ -20,7 +20,7 @@
 ### 🚀 Featured Projects
 
 - **DigiMart** – Full-stack MERN e-commerce app with authentication, product management, cart functionality, and order flow  
-  > Live: https://digimart-fe.vercel.app/ | Code: https://github.com/adnannazir235/digimart
+  > Live: https://digimart-fe.vercel.app | Code: https://github.com/adnannazir235/digimart
 
 - **R2 Tester** – API testing tool for sending requests, viewing structured responses, and importing/exporting collections  
   > Live: https://adnannazir235.github.io/R2-Tester | Code: https://github.com/adnannazir235/R2-Tester
